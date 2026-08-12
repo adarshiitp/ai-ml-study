@@ -42,6 +42,6 @@ This repository will be continuously updated as I learn new concepts and technol
 
 **Adarsh Kushwaha**
 
-Aspiring AI/ML Engineer
+Target - AI/ML Engineer
 
 GitHub: **@adarshiitp**
